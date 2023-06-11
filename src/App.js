@@ -107,6 +107,9 @@ function App() {
         <p>
           {selectedCompliment}
         </p>
+        <p style={{ fontSize: 15 }}>
+          Made with ❤ by <a href='https://www.linkedin.com/in/mohamed-cherif-braham-80845720a/'>Mohamed Cherif Braham</a>. Give a warm visit to Psybot.
+      </p>
       </header>
     </div>
   );
